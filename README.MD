@@ -7,9 +7,9 @@ The project objective is validate the file existance into the project managed in
 3. .gitignore
 4. LICENSE
 5. src folder
-    5.1. src/index.js
-    5.2. src/utils
-    5.3. src/modules
+    1. src/index.js
+    2. src/utils
+    3. src/modules
 6. test
 7. scripts
 
