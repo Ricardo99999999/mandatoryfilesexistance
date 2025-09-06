@@ -6,14 +6,14 @@ The project objective is validate the file existance into the project managed in
 2. package.json
 3. .gitignore
 4. LICENSE
-5. src folder
-    1. src/index.js
-    2. src/utils
-    3. src/modules
-6. test
-7. scripts
+5. src folder : src folder with main folders
+    1. src/index.js : Main file
+    2. src/utils : Utils folder
+    3. src/modules : Modules folder
+6. test : tests
+7. scripts : Auxiliary scripts
 
 
 
 ### Settings
-You can use it with "require("validatefiles")", It will check your project structure!
+You can use it with "require("@osiris99/mandatoryfilesexistance")", It will check your project structure!
